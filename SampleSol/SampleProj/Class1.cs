@@ -8,10 +8,9 @@ namespace SampleProj
 {
     partial class Program
     {
-        static void Main(string[] args)
+        void printHello()
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Another Line of Code");
+            Console.WriteLine("Hello from class 1");
         }
     }
 }
