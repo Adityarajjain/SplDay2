@@ -1,0 +1,7 @@
+H:\LTI Training\Specialisation\Day 2\SampleSol\SampleProj\bin\Debug\SampleProj.exe.config
+H:\LTI Training\Specialisation\Day 2\SampleSol\SampleProj\bin\Debug\SampleProj.exe
+H:\LTI Training\Specialisation\Day 2\SampleSol\SampleProj\bin\Debug\SampleProj.pdb
+H:\LTI Training\Specialisation\Day 2\SampleSol\SampleProj\obj\Debug\SampleProj.csprojAssemblyReference.cache
+H:\LTI Training\Specialisation\Day 2\SampleSol\SampleProj\obj\Debug\SampleProj.csproj.CoreCompileInputs.cache
+H:\LTI Training\Specialisation\Day 2\SampleSol\SampleProj\obj\Debug\SampleProj.exe
+H:\LTI Training\Specialisation\Day 2\SampleSol\SampleProj\obj\Debug\SampleProj.pdb
