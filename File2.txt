@@ -7,4 +7,8 @@ local data appended
 data added in github
 
 
+<<<<<<< HEAD
 New line added in github
+=======
+New line added in github
+>>>>>>> 1f3d9ba45492e0edad53f7791193e60b7410841c
